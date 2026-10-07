@@ -1,0 +1,1 @@
+hanoi2nd(n-1, helper, src, dest)

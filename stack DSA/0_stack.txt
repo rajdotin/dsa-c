@@ -1,0 +1,17 @@
+stack:
+   • linear data structure.
+   • element in stack can be inserted in one side called (top fo the stack).
+   • LIFO - last in first out.
+
+* Stack ADT:
+   • operations:
+      1.push() 2.pop()  3.peek() 4.size() 5.isEmpty() 6.isFull() .
+
+* working of stack:
+   • in array rep:
+      // if we want to insert an element we check overflow condition.
+      // if we want to delete we check underflow condition {top should != -1}.
+      
+* Implement of Stack:
+   1. using Array.
+   2. using linked list
